@@ -15,7 +15,9 @@
         "matches": [
             "https://colah.github.io/*",
             "http://colah.github.io/*",
-            "https://victorzhou.com/*"
+            "https://victorzhou.com/*",
+            "https://*",
+
         ]
     }]
 
