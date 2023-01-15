@@ -1,0 +1,21 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+#main-panel {
+    /*    margin: 20px;*/
+    height: 100%;
+    overflow: auto;
+    float: left;
+    width: 55%;
+}
+
+#side-panel {
+    height: 100%;
+    overflow: auto;
+    float: left;
+    width: 45%;
+    background-color: rgba(245, 245, 245);
+}
